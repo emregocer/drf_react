@@ -1,0 +1,4 @@
+body {
+  padding: 0 !important; /* prevent modals from pushing the content */
+  overflow-y: auto !important; /* prevent modals from hiding the scrollbar */
+}
